@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oscarecortez361 not sure what im doin but im here
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning and enrolled in school pursing an Artificial Intelligence degree .....
-- 💞️ I’m looking to collaborate on anythibng that can help me get better in AI
+- 💞️ I’m looking to collaborate on anything that can help me get better in AI
 - 📫 How to reach me ... on here
 - 😄 I love watching combat sports
 - ⚡ Fun fact: ... Once a Marine Always a Marine!!!!
