@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @oscarecortez361 not sure what im doin but im here
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning and enrolled in school pursing an Artificial Intelligence degree .....
-- 💞️ I’m looking to collaborate on anything that can help me get better in AI
-- 📫 How to reach me ... on here
-- 😄 I love watching combat sports
-- ⚡ Fun fact: ... Once a Marine Always a Marine!!!!
+# Oscar Cortez 👋
 
-<!---
-oscarecortez361/oscarecortez361 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Marine Corps veteran | AI & Robotics Engineering student | Python • SQL • ML • Computer Vision • Robotics
+
+I’m building practical skills in artificial intelligence, robotics, and automation—focused on real projects that solve real problems.
+
+## 🔧 What I’m working on
+- Python and SQL projects (data, automation, and tools)
+- Machine learning + computer vision experiments
+- Robotics learning + robot programming (Universal Robots training)
+
+## 🧠 What I’m learning
+- ML fundamentals (supervised/unsupervised)
+- Computer vision workflows
+- Linux/Unix + virtualization
+- Database design + SQL querying
+
+## 🤝 Open to
+- Internships / entry-level roles in AI, robotics, automation, software, or IT support
+- Collaboration on beginner-friendly AI/robotics projects
+
+## 📫 How to reach me
+- Email: oscar.cortez.ai@gmail.com
+- LinkedIn: https://www.linkedin.com/in/oscar-cortez-74922769/
+
+## ⚡ Fun stuff
+Combat sports fan (MMA/boxing/BJJ) 🤜🤛  
+Once a Marine, always a Marine 🇺🇸
