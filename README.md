@@ -51,4 +51,4 @@ I’m building practical skills in artificial intelligence, robotics, and automa
 
 ## ⚡ Fun stuff
 Combat sports fan (MMA/boxing/BJJ) 🤜🤛  
-Once a Marine, always a Marine 🇺🇸
+Once a Marine, always a Marine
