@@ -20,7 +20,7 @@ I’m building practical skills in artificial intelligence, robotics, and automa
 - Collaboration on beginner-friendly AI/robotics projects
 
 ## 📫 How to reach me
-- Email: oscar.cortez.ai@gmail.com
+- Email: oscarecortez361@gmail.com
 - LinkedIn: https://www.linkedin.com/in/oscar-cortez-74922769/
 
 ## ⚡ Fun stuff
