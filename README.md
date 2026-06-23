@@ -10,10 +10,36 @@ I’m building practical skills in artificial intelligence, robotics, and automa
 - Robotics learning + robot programming (Universal Robots training)
 
 ## 🧠 What I’m learning
-- ML fundamentals (supervised/unsupervised)
-- Computer vision workflows
-- Linux/Unix + virtualization
-- Database design + SQL querying
+## 🏅 Certifications & Training
+
+### 🤖 Robotics and Automation
+
+* **e-Series Core Track** — Universal Robots, July 2025
+* **UR20/30 e-Learning** — Universal Robots, July 2025
+* **Risk Assessment e-Learning** — Universal Robots, July 2025
+
+### 🧠 Artificial Intelligence and Data
+
+* **Introduction to Large Language Models** — LinkedIn Learning, February 2026
+* **Advanced Data Visualizations** — LinkedIn Learning, March 2026
+* **Picking the Right Chart for Your Data** — LinkedIn Learning, March 2026
+
+### ☁️ Cloud and Security
+
+* **Google Cloud Security** — LinkedIn Learning, October 2025
+* **Cloud Computing: Understanding Core Concepts** — LinkedIn Learning, August 2025
+
+### 💳 Fintech and Emerging Technology
+
+* **The Future of AI for Finance and Accounting** — LinkedIn Learning, April 2026
+* **Cryptocurrency Foundations** — LinkedIn Learning, March 2026
+* **Introduction to Fintech** — LinkedIn Learning, March 2026
+
+### 🚑 Professional License
+
+* **Emergency Medical Technician** — Texas Department of State Health Services
+  Credential #140383 | Expires September 2029
+
 
 ## 🤝 Open to
 - Internships / entry-level roles in AI, robotics, automation, software, or IT support
