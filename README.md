@@ -30,6 +30,7 @@ I’m in my **final semester** of the Bachelor of Applied Technology in Artifici
 * **Electric Mobility Scooter Digital Twin** — AI-assisted scooter monitoring, simulated telemetry, safety logic, and future autonomous assistance
 * **NeuroBridge AI: The Yeiko Project** — assistive AI and digital twin concepts for therapy support, progress tracking, and caregiver insights
 * **SportsTwin Live** — event-driven digital twin for a multi-TV sports room with automated viewing layouts and game-reaction logic
+* **Ambulance Digital Twin — EMS Use Case** — digital-twin concept for ambulance layout, equipment state, workflow simulation, and robotics testing, connecting my EMS background with AI and virtual simulation
 * **ITAI 4371 Digital Twins & Virtual Simulation Portfolio** — digital twin, NVIDIA Isaac Sim, Omniverse, and robotics simulation coursework and use cases
 
 ## 🏅 Certifications & Training
