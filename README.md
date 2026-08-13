@@ -1,21 +1,36 @@
 # Oscar Cortez 👋
 
-Marine Corps veteran | AI & Robotics Engineering student | Python • SQL • Machine Learning • Computer Vision • Robotics
+Marine Corps veteran | Senior AI & Robotics Engineering student | Python • SQL • Machine Learning • Computer Vision • Robotics • Digital Twins
 
-I’m building practical skills in artificial intelligence, robotics, and automation, with a focus on projects that solve real-world problems.
+I’m in my **final semester** of the Bachelor of Applied Technology in Artificial Intelligence & Robotics Engineering, with expected completion in **December 2026**. I’m building practical skills in artificial intelligence, robotics, automation, digital twins, and intelligent systems with a focus on real-world applications.
 
-## 🔧 What I’m working on
+## 🎓 Final Semester — Fall 2026
 
-* Python and SQL projects involving data, automation, and technical tools
-* Machine learning and computer vision experiments
-* Robotics and industrial automation training
-* Digital twin and virtual simulation coursework
+* **On-Premises AI Hardware Platform — ITAI 3374**
+* **Artificial Intelligence in Robotics — ITAI 3379**
+* **AI Policies, Procedures, & Governance — ITAI 4372**
+* **The New Nature of Work in AI — ITAI 4373**
+* **AI Controls for Robotics — ITAI 4376**
 
-## 🧠 Current Coursework
+## ✅ Summer 2026 Completed
 
 * **Digital Twins & Virtual Simulation — ITAI 4371**
 * **AI 5/6G Communications & O-RAN Networks — ITAI 4370**
-* Exploring digital twins, simulation environments, wireless AI, robotics, and intelligent network systems
+
+## 🔧 Current Project Focus
+
+* AI and robotics control systems
+* Digital twins and virtual simulation
+* Machine learning and computer vision
+* Automation, data, and intelligent system integration
+* Practical portfolio projects connecting software, simulation, and physical systems
+
+## 🚀 Featured Projects
+
+* **Electric Mobility Scooter Digital Twin** — AI-assisted scooter monitoring, simulated telemetry, safety logic, and future autonomous assistance
+* **NeuroBridge AI: The Yeiko Project** — assistive AI and digital twin concepts for therapy support, progress tracking, and caregiver insights
+* **SportsTwin Live** — event-driven digital twin for a multi-TV sports room with automated viewing layouts and game-reaction logic
+* **ITAI 4371 Digital Twins & Virtual Simulation Portfolio** — digital twin, NVIDIA Isaac Sim, Omniverse, and robotics simulation coursework and use cases
 
 ## 🏅 Certifications & Training
 
@@ -48,21 +63,21 @@ I’m building practical skills in artificial intelligence, robotics, and automa
 
 ### 🚑 Professional License
 
-* **Emergency Medical Technician** — Texas Department of State Health Services
+* **Emergency Medical Technician** — Texas Department of State Health Services  
   Active through September 2029
 
 ## 🤝 Open to
 
-* Internships and entry-level roles in AI, robotics, automation, software development, or IT support
-* Collaboration on beginner-friendly AI and robotics projects
+* Entry-level and recent-graduate opportunities in AI, robotics, automation, software, technical operations, and IT
+* Hybrid opportunities in the Houston area, including aerospace, advanced manufacturing, and technology environments
+* Collaboration on AI, robotics, digital twin, and automation projects
 
 ## 📫 How to reach me
 
-- Email: [oscarecortez361@gmail.com](mailto:oscarecortez361@gmail.com)
+* Email: [oscarecortez361@gmail.com](mailto:oscarecortez361@gmail.com)
 * LinkedIn: [Oscar Cortez](https://www.linkedin.com/in/oscar-cortez-74922769/)
 
 ## ⚡ Fun stuff
 
 * Combat sports fan: MMA, boxing, BJJ, and wrestling 🤜🤛
 * Once a Marine, always a Marine
-
